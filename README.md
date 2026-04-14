@@ -60,6 +60,6 @@ O download do dataset do Kaggle é feito automaticamente via script.
 🎥 Demonstração e Resultados
 Confira o vídeo com a explicação técnica e demonstração das ferramentas funcionando:
 
-🔗 [Link do Vídeo no YouTube (Não Listado)]
+Link video: https://youtu.be/Kcnauv6K_IA
 
 Nota: Este projeto faz parte do currículo de Inteligência Artificial da FIAP (Fase 2 - PBL).
