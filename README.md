@@ -46,7 +46,7 @@ Performance: O modelo alcança alta acurácia na distinção entre batimentos no
 Clone o repositório:
 
 Bash
-git clone [LINK-DO-SEU-REPOSITORIO]
+git clone (https://github.com/B3rr2304/Desafio-Integrador-IA-entre-Rob-s-Sinapses-e-Medicina_FIAP.git)
 Instale as dependências:
 
 Bash
